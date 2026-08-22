@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 1
+img: JuliaTile.png
+alt: image-alt
+description: This is Julia
+---
